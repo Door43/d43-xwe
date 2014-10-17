@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xwe:home|Door43 (xwe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xwe|d43-xwe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xwe/archive/master.zip|d43-xwe.zip]]
+
+**Recent Changes**
+{{changes>ns = xwe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xwe|Ethnologue data]]
+
